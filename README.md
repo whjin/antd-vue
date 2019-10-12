@@ -30,7 +30,6 @@
 ## 在`vue-cli 3`中使用 ##
 
     yarn add ant-design-vue
-    
     yarn add --dev babel-plugin-import
     
     
