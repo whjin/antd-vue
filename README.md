@@ -12,6 +12,7 @@
 
 ```json
 // .babelrc or babel-loader option
+// css选项可以设置为less
 {
   "plugins": [
     [
@@ -19,8 +20,7 @@
       {
         "libraryName": "ant-design-vue",
         "libraryDirectory": "es",
-        "style": "css"
-        // css选项可以设置为less
+        "style": "css"       
       }
     ]
   ]
